@@ -7,7 +7,7 @@ tags: bigquery data-warehouse gcp
 # What is BigQuery?
 Checking the GCP documentation you would see:
 >BigQuery is a fully managed enterprise data warehouse … BigQuery's serverless architecture lets you use SQL queries to answer your organisations biggest questions with zero infrastructure management. BigQuery's scalable, distributed analysis engine lets you query terabytes in seconds and petabytes in minutes. 
-
+<!--more-->
 >BigQuery maximises flexibility by separating the compute engine that analyses your data from your storage choices.
 
 ## What does that actually mean?

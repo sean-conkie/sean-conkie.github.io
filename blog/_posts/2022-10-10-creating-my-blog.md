@@ -5,6 +5,9 @@ tags: git jekyll github github-pages
 ---
 
 # Creating my Blog
+
+**Silent Reading Time**: 9 mins 21 secs
+
 In my current role I lead an agile chapter for Data Engineers focussing on data modelling and design.  In that role I started writing and sharing short blogs and decided one of them could be about setting up a blog using GitHub Pages and Jekyll.
 
 So here we go...

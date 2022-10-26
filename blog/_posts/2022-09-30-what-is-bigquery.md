@@ -5,6 +5,9 @@ tags: bigquery data-warehouse gcp
 ---
 
 # What is BigQuery?
+
+**Silent Reading Time**: 2 mins 5 secs
+
 Checking the GCP documentation you would see:
 >BigQuery is a fully managed enterprise data warehouse … BigQuery's serverless architecture lets you use SQL queries to answer your organisations biggest questions with zero infrastructure management. BigQuery's scalable, distributed analysis engine lets you query terabytes in seconds and petabytes in minutes. 
 <!--more-->

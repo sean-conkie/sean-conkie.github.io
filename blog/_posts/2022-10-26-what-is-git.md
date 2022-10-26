@@ -4,6 +4,8 @@ title:  "What is Git?"
 tags: git
 ---
 
+# What is Git?
+
 **Silent Reading Time**: 10 mins 15 secs
 
 Git is free and open source software for distributed version control: meaning, it tracks changes to any set of files across multiple different machines and users.  Usually used for coordinating work among programmers collaboratively developing source code during software development. 

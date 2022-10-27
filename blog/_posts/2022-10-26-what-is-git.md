@@ -282,13 +282,13 @@ Commit messages should start with a summary written in _the imperative mood_ and
 
 A helpful approach when writing your summary message is to use "Semantic Commit Messages": this is where commit messages are structured based on the type of action with each type using a specific imperative.
 
-feat: `add` beta sequence
-fix: `remove` broken confirmation message
-docs: `explain` hat wobble
-style: `convert` tabs to spaces
-refactor: `share` logic between 4d3d3d3 and flarhgunnstow
-test: `ensure` button closes window
-chore: `add` Oyster build script
+- feature: `add` beta sequence
+- bug fix: `remove` broken confirmation message
+- docs: `explain` hat wobble
+- style: `convert` tabs to spaces
+- refactor: `share` logic between 4d3d3d3 and flarhgunnstow
+- test: `ensure` button closes window
+- chore: `add` Oyster build script
 
 The body of your message should be used to provide more detail, mainly context: What was the motivation for the change?  How does your change differ from the previous implementation?  
 

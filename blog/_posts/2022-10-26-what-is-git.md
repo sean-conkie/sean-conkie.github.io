@@ -211,8 +211,8 @@ On the face of it, these two commands are the same:
 
 |Checkout|Switch|Description|
 |---|---|---|
-|`git switch my-branch`|`git switch -c my-branch`|Switch to branch my-branch|
-|`git checkout my-branch`|`git checkout -b my-branch`|Create and switch to my-branch|
+|`git checkout my-branch`|`git switch my-branch`|Switch to branch my-branch|
+|`git checkout -b my-branch`|`git switch -c my-branch`|Create and switch to my-branch|
 
 Both can be used to switch or create branches, but what is the difference?
 
